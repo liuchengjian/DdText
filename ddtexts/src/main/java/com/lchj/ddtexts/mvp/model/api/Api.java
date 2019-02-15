@@ -10,6 +10,9 @@ package com.lchj.ddtexts.mvp.model.api;
  * ================================================
  */
 public interface Api {
+
+    //API:https://www.easyapi.com/api/?documentId=8067
+
     String APP_DOMAIN = "http://cloud.bmob.cn";
 
     //请求成功
